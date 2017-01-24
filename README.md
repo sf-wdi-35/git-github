@@ -108,7 +108,7 @@ Once you're ready for your local commits to become available online, you need to
 </details>
 
 ## Independent Practice
-Practice the skills covered in this workshop with this [training](https://github.com/sf-wdi-31/personal-portfolio)
+Practice the skills covered in this workshop by continuing the git training in the  [portfolio project](https://github.com/sf-wdi-35/personal-portfolio).
 
 ## More ahead
 - This is just the beginning of our interactions with git and GitHub. One important additional feature that we'll explore later is the capacity to have multiple branches. On each branch, you will work on a specific feature. When you've completed that feature you will merge the branch into the `master` branch of the project. You keep the `master` branch tidy and publish it. Other development branches are the place for experimentation.
