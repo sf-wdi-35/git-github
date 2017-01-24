@@ -11,7 +11,7 @@ Market: SF
 <!-- framing the "why" in big-picture/real world examples -->
 *This workshop is important because:*
 
-Git is the industry standard tool for version control. That is, when you write code, git helps you track all of the changes that you've made over time to ensure that no work is lost. GitHub is the tool that takes git and makes it collaborative. It helps you make sure that every developer's version of the code is the same between different computers. GitHub has also allowed unprecedented sharing of code and tools through the open source movement. You can freely access any code that somebody has made public and use it in your own projects.
+Because Michelle says so.
 
 
 
